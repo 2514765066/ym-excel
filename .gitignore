@@ -1,0 +1,8 @@
+node_modules
+.vscode
+dist
+out
+.DS_Store
+*.log*
+dev-app-update.yml
+resources
